@@ -1,0 +1,30 @@
+_repo: Scandinavian-influence-on-Southern-Lowland-Scotch--13-A-contribution-to-the-study-of-the-ling__14604
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Flom, George T. (George Tobias)
+    alias: Flom, George Tobias
+    birthdate: 1871
+    deathdate: 1960
+    gutenberg_agent_id: '5589'
+    url: http://www.gutenberg.org/2009/agents/5589
+description: ''
+gutenberg_issued: '2005-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14604'
+  lccn: '72183880'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'Scots language -- Foreign words and phrases -- Scandinavian'
+- !lcsh 'Scots language'
+title: "Scandinavian influence on Southern Lowland Scotch\r\nA contribution to the\
+  \ study of the linguistic relations of English and Scandinavian"
+url: http://www.gutenberg.org/ebooks/14604
