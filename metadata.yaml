@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5589'
     url: http://www.gutenberg.org/2009/agents/5589
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14604#Scandinavian-influence-on-Southern-Lowland-Scotch--13-A-contribution-to-the-study-of-the-ling_
 gutenberg_issued: '2005-01-05'
 gutenberg_type: Text
 identifiers:
